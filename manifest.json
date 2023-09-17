@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Tic-Tac-Toe",
+  "version": "1.0",
+  "description": "Tic Tac Toe game with computer for time killing",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "logo.png"
+    }
+  },
+  "icons": {
+    "128": "logo.png"
+  }
+}
